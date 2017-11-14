@@ -1,4 +1,4 @@
-package com.rdlsmile.server;
+package com.rdlsmile.time.server;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.socket.SocketChannel;
